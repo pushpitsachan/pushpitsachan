@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pushpitsachan
 - 👀 I’m interested in data analytics,data engineering and data science...
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on an kind of data analytics projects
+- 💞️ I’m looking to collaborate on any kind of data analytics projects
 - 📫 Reach me @pushpitsachansachan@gmail.com
  
 
